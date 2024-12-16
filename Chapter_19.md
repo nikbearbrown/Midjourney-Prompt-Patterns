@@ -1,3 +1,3 @@
-# Midjourney Prompt Patterns
+# Appendix - Prompt Gallery
 
 
